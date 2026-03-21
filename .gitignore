@@ -16,8 +16,8 @@ env/
 # ML Models — included so the app runs without retraining
 # backend/models/*.pkl
 
-# Data (sensitive / large)
-data/
+# Data — included for reproducibility
+# data/
 
 # Environment
 .env
