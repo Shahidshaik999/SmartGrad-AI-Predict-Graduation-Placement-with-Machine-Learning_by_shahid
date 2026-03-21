@@ -2,27 +2,6 @@
 
 A full-stack, production-ready AI system that predicts student placement probability and graduation timeline using machine learning, and delivers personalized career improvement recommendations through a premium animated dashboard.
 
----
-
-## Table of Contents
-
-1. [Project Overview](#1-project-overview)
-2. [Tech Stack](#2-tech-stack)
-3. [Project Structure](#3-project-structure)
-4. [Data Sources](#4-data-sources)
-5. [Machine Learning Pipeline](#5-machine-learning-pipeline)
-6. [Backend — FastAPI](#6-backend--fastapi)
-7. [Frontend — React](#7-frontend--react)
-8. [Recommendation Engine](#8-recommendation-engine)
-9. [Authentication](#9-authentication)
-10. [API Reference](#10-api-reference)
-11. [Local Setup Guide](#11-local-setup-guide)
-12. [Deployment Guide](#12-deployment-guide)
-13. [Model Performance](#13-model-performance)
-14. [Feature Thresholds & Logic](#14-feature-thresholds--logic)
-15. [Known Limitations & Future Work](#15-known-limitations--future-work)
-
----
 
 ## 1. Project Overview
 
