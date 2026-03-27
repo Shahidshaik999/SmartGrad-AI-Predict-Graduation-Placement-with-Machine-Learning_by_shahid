@@ -14,6 +14,10 @@ SmartGrad AI is an intelligent academic analytics platform built for engineering
 
 The UI is built to feel like a premium SaaS product — glassmorphism cards, animated SVG progress rings, Framer Motion transitions, radar charts, and a cinematic landing page.
 
+
+https://github.com/user-attachments/assets/c7b39a59-4c10-4bae-a40c-c3dfe2dc0195
+
+
 ---
 
 ## 2. Tech Stack
