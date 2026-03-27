@@ -1,0 +1,15 @@
+# Treat all files as binary by default to prevent CRLF corruption
+* text=auto
+
+# Force binary for pkl, xlsx, png — never touch line endings
+*.pkl   binary
+*.xlsx  binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.eot   binary
